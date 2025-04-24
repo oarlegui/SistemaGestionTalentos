@@ -1,0 +1,327 @@
+[14-Nov-2024 11:09:46 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home50/delasan/public_html/talentos/guarda-observacion.php:98
+Stack trace:
+#0 /home50/delasan/public_html/talentos/guarda-observacion.php(98): mysqli->query('INSERT INTO obs...')
+#1 {main}
+  thrown in /home50/delasan/public_html/talentos/guarda-observacion.php on line 98
+[14-Nov-2024 11:44:44 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home50/delasan/public_html/talentos/guarda-observacion.php:98
+Stack trace:
+#0 /home50/delasan/public_html/talentos/guarda-observacion.php(98): mysqli->query('INSERT INTO obs...')
+#1 {main}
+  thrown in /home50/delasan/public_html/talentos/guarda-observacion.php on line 98
+[20-Nov-2024 11:40:48 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home50/delasan/public_html/talentos/guarda-observacion.php:98
+Stack trace:
+#0 /home50/delasan/public_html/talentos/guarda-observacion.php(98): mysqli->query('INSERT INTO obs...')
+#1 {main}
+  thrown in /home50/delasan/public_html/talentos/guarda-observacion.php on line 98
+[20-Nov-2024 11:48:54 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home50/delasan/public_html/talentos/guarda-observacion.php:98
+Stack trace:
+#0 /home50/delasan/public_html/talentos/guarda-observacion.php(98): mysqli->query('INSERT INTO obs...')
+#1 {main}
+  thrown in /home50/delasan/public_html/talentos/guarda-observacion.php on line 98
+[21-Nov-2024 13:40:47 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:40:54 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:40:57 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/mi_avance.php(151): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:41:07 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:41:13 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:41:22 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:41:26 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/mi_avance.php(151): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:43:22 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:43:25 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:43:30 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/mi_avance.php(151): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 13:44:14 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND YEAR(OBS_FECHA) = 2024' at line 3 in /home50/delasan/public_html/talentos/config.php:201
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(201): mysqli->query('\n    SELECT COU...')
+#1 /home50/delasan/public_html/talentos/navbar.php(45): get_avance(NULL)
+#2 /home50/delasan/public_html/talentos/mi_avance.php(151): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 201
+[21-Nov-2024 16:02:02 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function get_func_admin_from_funcionari() in /home50/delasan/public_html/talentos/config.php:67
+Stack trace:
+#0 /home50/delasan/public_html/talentos/navbar.php(34): esAdmin()
+#1 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#2 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 67
+[21-Nov-2024 16:02:25 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function get_func_admin_from_funcionari() in /home50/delasan/public_html/talentos/config.php:67
+Stack trace:
+#0 /home50/delasan/public_html/talentos/navbar.php(34): esAdmin()
+#1 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#2 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 67
+[21-Nov-2024 16:02:26 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function get_func_admin_from_funcionari() in /home50/delasan/public_html/talentos/config.php:67
+Stack trace:
+#0 /home50/delasan/public_html/talentos/navbar.php(34): esAdmin()
+#1 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#2 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 67
+[21-Nov-2024 16:02:27 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function get_func_admin_from_funcionari() in /home50/delasan/public_html/talentos/config.php:67
+Stack trace:
+#0 /home50/delasan/public_html/talentos/navbar.php(34): esAdmin()
+#1 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#2 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 67
+[21-Nov-2024 16:02:27 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function get_func_admin_from_funcionari() in /home50/delasan/public_html/talentos/config.php:67
+Stack trace:
+#0 /home50/delasan/public_html/talentos/navbar.php(34): esAdmin()
+#1 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#2 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 67
+[21-Nov-2024 16:02:30 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function get_func_admin_from_funcionari() in /home50/delasan/public_html/talentos/config.php:67
+Stack trace:
+#0 /home50/delasan/public_html/talentos/navbar.php(34): esAdmin()
+#1 /home50/delasan/public_html/talentos/ranking.php(138): include('/home50/delasan...')
+#2 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 67
+[21-Nov-2024 16:04:35 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:07 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:11 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:12 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:16 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:17 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:19 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:39 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:52 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:52 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:53 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:54 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:05:55 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:01 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:10 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:11 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:19 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:20 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:20 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:24 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 16:06:42 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home50/delasan/public_html/talentos/config.php on line 68
+[21-Nov-2024 17:01:09 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home50/delasan/public_html/talentos/navbar.php on line 2
+[21-Nov-2024 17:01:27 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home50/delasan/public_html/talentos/navbar.php on line 2
+[21-Nov-2024 17:01:42 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home50/delasan/public_html/talentos/navbar.php on line 2
+[21-Nov-2024 17:02:00 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home50/delasan/public_html/talentos/navbar.php on line 2
+[21-Nov-2024 17:33:01 America/Santiago] PHP Fatal error:  Cannot redeclare get_rut_from_funcionario() (previously declared in /home50/delasan/public_html/talentos/config.php:1380) in /home50/delasan/public_html/talentos/config.php on line 1398
+[21-Nov-2024 17:33:29 America/Santiago] PHP Fatal error:  Cannot redeclare get_rut_from_funcionario() (previously declared in /home50/delasan/public_html/talentos/config.php:1380) in /home50/delasan/public_html/talentos/config.php on line 1398
+[21-Nov-2024 17:35:49 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FUNC_ADMIN' in 'field list' in /home50/delasan/public_html/talentos/config.php:1444
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(1444): mysqli->query('\n    SELECT FUN...')
+#1 /home50/delasan/public_html/talentos/navbar.php(3): get_admin_from_funcionario('lmerino@espirit...')
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 1444
+[21-Nov-2024 17:36:14 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FUNC_ADMIN' in 'field list' in /home50/delasan/public_html/talentos/config.php:1444
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(1444): mysqli->query('\n    SELECT FUN...')
+#1 /home50/delasan/public_html/talentos/navbar.php(3): get_admin_from_funcionario('lmerino@espirit...')
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 1444
+[21-Nov-2024 17:36:40 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FUNC_ADMIN' in 'field list' in /home50/delasan/public_html/talentos/config.php:1444
+Stack trace:
+#0 /home50/delasan/public_html/talentos/config.php(1444): mysqli->query('\n    SELECT FUN...')
+#1 /home50/delasan/public_html/talentos/navbar.php(3): get_admin_from_funcionario('lmerino@espirit...')
+#2 /home50/delasan/public_html/talentos/portal.php(78): include('/home50/delasan...')
+#3 {main}
+  thrown in /home50/delasan/public_html/talentos/config.php on line 1444
+[21-Nov-2024 17:44:41 America/Santiago] PHP Warning:  Use of undefined constant esAdmin - assumed 'esAdmin' (this will throw an Error in a future version of PHP) in /home50/delasan/public_html/talentos/navbar.php on line 47
+[21-Nov-2024 17:46:11 America/Santiago] PHP Warning:  Use of undefined constant esAdmin - assumed 'esAdmin' (this will throw an Error in a future version of PHP) in /home50/delasan/public_html/talentos/navbar.php on line 47
+[21-Nov-2024 17:48:30 America/Santiago] PHP Warning:  Use of undefined constant esAdmin - assumed 'esAdmin' (this will throw an Error in a future version of PHP) in /home50/delasan/public_html/talentos/navbar.php on line 47
+[22-Nov-2024 11:16:38 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home50/delasan/public_html/talentos/guarda-observacion.php:98
+Stack trace:
+#0 /home50/delasan/public_html/talentos/guarda-observacion.php(98): mysqli->query('INSERT INTO obs...')
+#1 {main}
+  thrown in /home50/delasan/public_html/talentos/guarda-observacion.php on line 98
+[22-Nov-2024 12:33:32 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home50/delasan/public_html/talentos/guarda-observacion.php:98
+Stack trace:
+#0 /home50/delasan/public_html/talentos/guarda-observacion.php(98): mysqli->query('INSERT INTO obs...')
+#1 {main}
+  thrown in /home50/delasan/public_html/talentos/guarda-observacion.php on line 98
+[02-Dec-2024 20:39:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_talentos'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:11
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(11): mysqli_connect('localhost', 'delasan_talento...', Object(SensitiveParameterValue), 'delasan_talento...')
+#1 /home/iswafmec/public_html/talentos/portal.php(10): require_once('/home/iswafmec/...')
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 11
+[02-Dec-2024 20:40:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[02-Dec-2024 20:42:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 12:23:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 14:30:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 14:30:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 14:47:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 14:47:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 14:49:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 15:03:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1519
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1519): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(236): getEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1519
+[03-Dec-2024 15:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1541
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1541): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(238): getAutoEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1541
+[03-Dec-2024 15:15:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1541
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1541): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(238): getAutoEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1541
+[03-Dec-2024 15:15:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1541
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1541): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(238): getAutoEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1541
+[03-Dec-2024 15:15:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1541
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1541): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(238): getAutoEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1541
+[03-Dec-2024 15:15:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'delasan_ces'@'localhost' (using password: YES) in /home/iswafmec/public_html/talentos/config.php:1541
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1541): mysqli->__construct('localhost', 'delasan_ces', Object(SensitiveParameterValue), 'delasan_ces')
+#1 /home/iswafmec/public_html/talentos/portal.php(238): getAutoEvaluados(1)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1541
+[17-Feb-2025 15:01:02 UTC] PHP Warning:  Undefined variable $startDate in /home/iswafmec/public_html/talentos/portal.php on line 336
+[17-Feb-2025 15:01:02 UTC] PHP Warning:  Undefined variable $endDate in /home/iswafmec/public_html/talentos/portal.php on line 337
+[17-Feb-2025 15:03:35 UTC] PHP Warning:  Undefined variable $startDateEC in /home/iswafmec/public_html/talentos/portal.php on line 336
+[17-Feb-2025 15:03:35 UTC] PHP Warning:  Undefined variable $endDateEC in /home/iswafmec/public_html/talentos/portal.php on line 337
+[17-Feb-2025 15:05:17 UTC] PHP Warning:  Undefined variable $startDateEC in /home/iswafmec/public_html/talentos/portal.php on line 336
+[17-Feb-2025 15:05:17 UTC] PHP Warning:  Undefined variable $endDateEC in /home/iswafmec/public_html/talentos/portal.php on line 337
+[17-Feb-2025 15:05:35 UTC] PHP Warning:  Undefined variable $startDateEC in /home/iswafmec/public_html/talentos/portal.php on line 336
+[17-Feb-2025 15:05:35 UTC] PHP Warning:  Undefined variable $endDateEC in /home/iswafmec/public_html/talentos/portal.php on line 337
+[17-Feb-2025 15:07:14 UTC] PHP Warning:  Undefined variable $startDateEC in /home/iswafmec/public_html/talentos/portal.php on line 338
+[17-Feb-2025 15:07:14 UTC] PHP Warning:  Undefined variable $endDateEC in /home/iswafmec/public_html/talentos/portal.php on line 339
+[17-Feb-2025 15:08:38 UTC] PHP Warning:  Undefined variable $startDateAED in /home/iswafmec/public_html/talentos/portal.php on line 266
+[17-Feb-2025 15:08:38 UTC] PHP Warning:  Undefined variable $endDateAED in /home/iswafmec/public_html/talentos/portal.php on line 267
+[17-Feb-2025 15:08:38 UTC] PHP Warning:  Undefined variable $startDateEC in /home/iswafmec/public_html/talentos/portal.php on line 341
+[17-Feb-2025 15:08:38 UTC] PHP Warning:  Undefined variable $endDateEC in /home/iswafmec/public_html/talentos/portal.php on line 342
+[17-Feb-2025 15:09:17 UTC] PHP Warning:  Undefined variable $startDateED in /home/iswafmec/public_html/talentos/portal.php on line 195
+[17-Feb-2025 15:09:17 UTC] PHP Warning:  Undefined variable $endDateED in /home/iswafmec/public_html/talentos/portal.php on line 196
+[17-Feb-2025 15:09:17 UTC] PHP Warning:  Undefined variable $startDateAED in /home/iswafmec/public_html/talentos/portal.php on line 268
+[17-Feb-2025 15:09:17 UTC] PHP Warning:  Undefined variable $endDateAED in /home/iswafmec/public_html/talentos/portal.php on line 269
+[17-Feb-2025 15:09:17 UTC] PHP Warning:  Undefined variable $startDateEC in /home/iswafmec/public_html/talentos/portal.php on line 343
+[17-Feb-2025 15:09:17 UTC] PHP Warning:  Undefined variable $endDateEC in /home/iswafmec/public_html/talentos/portal.php on line 344
+[21-Feb-2025 18:40:57 UTC] PHP Warning:  Undefined array key "uid" in /home/iswafmec/public_html/talentos/detalle.php on line 14
+[21-Feb-2025 18:40:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY Fecha' at line 8 in /home/iswafmec/public_html/talentos/config.php:843
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(843): mysqli_query(Object(mysqli), '\n    SELECT OBS...')
+#1 /home/iswafmec/public_html/talentos/detalle.php(153): get_detalle(NULL)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 843
+[21-Feb-2025 19:14:36 UTC] PHP Parse error:  Unclosed '{' on line 38 in /home/iswafmec/public_html/talentos/navbar.php on line 104
+[21-Feb-2025 19:15:06 UTC] PHP Parse error:  Unclosed '{' on line 38 in /home/iswafmec/public_html/talentos/navbar.php on line 104
+[21-Feb-2025 19:16:24 UTC] PHP Parse error:  Unclosed '{' on line 43 in /home/iswafmec/public_html/talentos/navbar.php on line 109
+[21-Feb-2025 19:16:41 UTC] PHP Parse error:  Unclosed '{' on line 43 in /home/iswafmec/public_html/talentos/navbar.php on line 109
+[21-Feb-2025 19:17:40 UTC] PHP Parse error:  Unclosed '{' on line 42 in /home/iswafmec/public_html/talentos/navbar.php on line 108
+[21-Feb-2025 19:18:14 UTC] PHP Parse error:  Unclosed '{' on line 42 in /home/iswafmec/public_html/talentos/navbar.php on line 108
+[21-Feb-2025 19:18:36 UTC] PHP Parse error:  Unclosed '{' on line 42 in /home/iswafmec/public_html/talentos/navbar.php on line 108
+[21-Feb-2025 19:18:45 UTC] PHP Parse error:  Unclosed '{' on line 42 in /home/iswafmec/public_html/talentos/navbar.php on line 108
+[21-Feb-2025 19:19:42 UTC] PHP Parse error:  Unclosed '{' on line 42 in /home/iswafmec/public_html/talentos/navbar.php on line 108
+[21-Feb-2025 19:20:04 UTC] PHP Parse error:  Unclosed '{' on line 42 in /home/iswafmec/public_html/talentos/navbar.php on line 108
+[15-Apr-2025 17:31:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE activo='0'' at line 2 in /home/iswafmec/public_html/talentos/config.php:1254
+Stack trace:
+#0 /home/iswafmec/public_html/talentos/config.php(1254): mysqli->query('\n    SELECT *\n ...')
+#1 /home/iswafmec/public_html/talentos/docente.php(100): get_materias(NULL)
+#2 {main}
+  thrown in /home/iswafmec/public_html/talentos/config.php on line 1254
